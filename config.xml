@@ -2,7 +2,7 @@
 <widget id="com.ipsu.ipsumobile" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>IPSU</name>
   <description>Official IPSU app</description>
-  <author href="http://moodle.com" email="sam@insightpest.com">Sam Smith</author>
+  <author href="http://ipstrainingsolutions.com" email="sam@insightpest.com">Sam Smith</author>
   <content src="index.html"/>
   <access origin="*"/>
 
