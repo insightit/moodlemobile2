@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.ipsu.ipsuemobile" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>IPSU Mobile</name>
-  <description>Official Moodle Mobile app</description>
+  <description>Official IPSU app</description>
   <author href="http://ipstrainingsolutions.com" email="sam@insightpest.com">Sam Smith</author>
   <content src="index.html"/>
   <access origin="*"/>
